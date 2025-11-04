@@ -45,5 +45,5 @@ Founder of **[42k-LABS](https://github.com/42k-LABS)** — a creative space for 
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michaelweih)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelweih)
 
